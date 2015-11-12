@@ -1,4 +1,4 @@
-# Python 3 with sklearn installed #
+# Python 3 with [sklearn](http://scikit-learn.org/stable/) installed #
 
 ### Take it from the Docker hub ###
 ```
